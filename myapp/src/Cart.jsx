@@ -94,6 +94,7 @@ function ModalsContent() {
         })}
         <div className="w-100 d-flex justify-content-end">
           Total {totalPrice}
+          {/* i just writing this for the testing purpose */}
         </div>
       </Wrapper>
     </>
